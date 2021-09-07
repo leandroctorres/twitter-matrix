@@ -2,6 +2,14 @@
 
 Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy Brasil.
 
+
+
+## Image: 
+
+
+
+<img src=".\assets\img\twitter.png"  />
+
 ## Ferramentas
 
 1. [Instalação do VS Code no Windows](https://kenzie.com.br/blog/instalacao-vs-code-windows/)
